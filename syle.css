@@ -1,9 +1,3 @@
-*{
-	padding: 0;
-	margin: 0;
-	box-sizing: border-box;
-}
-
 body {
 	background: #232323;
 }
@@ -24,7 +18,10 @@ h1{
 	max-width: 600px;
 }
 
-span{
 
-	color: white;
+#stripe{
+	background: white;
+	height: 30px;
+	text-align: center;
+	color: black;
 }
